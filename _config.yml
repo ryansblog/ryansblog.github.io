@@ -44,7 +44,7 @@ google_analytics:
 url:
 
 # Added this myself (ryan)
-tag:
+tags:
 -Default
 -Other
 
