@@ -5,7 +5,7 @@ title: Up and running!
 
 This blog has been built using the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
-![_config.yml]({{ site.baseurl }}/images/Ryan.jpeg)
+![_config.yml]({{ site.baseurl }}/images/Ryan.jpeg | width=50%)
 
 I am Ryan and this is my blog. 
 
