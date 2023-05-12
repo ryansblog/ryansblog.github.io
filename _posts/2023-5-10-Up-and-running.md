@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Up and running!
+tags: Other
 ---
 
 I am Ryan and this is my blog. 
