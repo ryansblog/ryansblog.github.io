@@ -9,7 +9,7 @@ permalink: /blog
 
 {% for post in tag[1] %}
     
-{{ post.date | date: "%B %3, %Y" }} - [{{ post.title }}]({{post.url}}/)
+{{ post.date | date: "%B %e, %Y" }} - [{{ post.title }}]({{post.url}}/)
   
 {% endfor %}
 
