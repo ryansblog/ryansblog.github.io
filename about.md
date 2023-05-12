@@ -2,16 +2,21 @@
 layout: page
 title: About
 permalink: /about/
+date: 2023-05-10
 ---
 
-My name is Ryan and this is my blog. It's meant to be a sort of mix between journal & social media. I have never been consistent about old-fashioned journaling - but I'd like to be. I am also quite wary of the mainstream social media platforms. I much prefer to maintain my own content how I want and can share this space with others as I please. 
+{{ page.date | date: "%B %e, %Y" }}
 
-It remains to be seen what I do with this site. For now, I am just getting started. 
+My name is Ryan and this is my blog. 
 
-### More a little later
+It is sort of a mix between a journal & social media page. I have never been consistent about journaling, but I'd like to be. I am also tired of typical social media platforms. With this blog I can still write and share things but in a much more controlled setting. 
 
-I am working full-time and looking on complete my masters in the next year. After that, I expect to use my free time to really dive deeper into my family and interests. 
+It remains to be seen what this becomes. For now, I am just getting started. 
+
+### Maybe more a little later
+
+I am working full-time and looking on complete my masters in the next year. After that, I expect to use my free time to really dive deeper into my interests. 
 
 ### Contact me
 
-Not a direct link, but you can find me on LinkedIn /RyanDrobny
+For now, find me on LinkedIn /RyanDrobny
