@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Second Post
+tag: '2023'
 ---
 
 What does adding a second post do to the main page? 
