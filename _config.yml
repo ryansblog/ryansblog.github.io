@@ -86,4 +86,4 @@ exclude:
   - CNAME
 
 defaults: 
--tags: Other
+-tags: 2023
